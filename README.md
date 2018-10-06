@@ -1,8 +1,6 @@
-![](https://github.com/aliciapj/pycon18-attack/raw/master/figure/pycones_malaga.jpg)
-
 # The bad guys in AI - atacando sistemas de machine learning"
 
-![](https://github.com/aliciapj/pycon18-attack/raw/master/figure/results.png)
+<img src="./figure/results.png" height="200">
 
 ### Descripción
 El código de este repositorio ha sido desarrollado por Alicia Pérez y Javier Ordoñez como demo para la charla
