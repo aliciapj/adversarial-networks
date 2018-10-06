@@ -8,7 +8,7 @@ Las transparencias que acompañan este contenido se pueden encontrar [aquí]()
 
 El vídeo de la charla será enlazado tan pronto como la organización lo haga público.
 
-### Oráculo
+### Oráculo - Modelo discriminativo
 
 __Instalación__
 Instalar el fichero de dependencias de la carpeta `attack` con pip
@@ -16,14 +16,10 @@ Instalar el fichero de dependencias de la carpeta `attack` con pip
 pip install -r discriminative/requirements.txt
 ```
 
-#### Modelo Discriminativo
 __Dependencias__
 - Pillow 5.2
 - Numpy 1.14
 - Keras 2.2
-
-__Datos de entrenamiento__
-
 
 __Entrenamiento del modelo__
 ```
