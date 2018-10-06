@@ -4,7 +4,7 @@
 El código de este repositorio ha sido desarrollado por Alicia Pérez y Javier Ordoñez como demo para la charla
 "The bad guys in AI - atacando sistemas de machine learning" en el marco de la PyConES de 2018 en Málaga.
 
-Las transparencias que acompañan este contenido se pueden encontrar [aquí]()
+Las transparencias que acompañan este contenido se pueden encontrar [aquí](/slides/)
 
 El vídeo de la charla será enlazado tan pronto como la organización lo haga público.
 
