@@ -12,36 +12,38 @@ El vídeo de la charla será enlazado tan pronto como la organización lo haga p
 
 ### Oráculo - Modelo discriminativo
 
-__Instalación__
+#### Instalación
 Instalar el fichero de dependencias de la carpeta `attack` con pip
 ```
 pip install -r discriminative/requirements.txt
 ```
 
-__Dependencias__
+#### Principales dependencias
 - Pillow 5.2
 - Numpy 1.14
 - Keras 2.2
 
-__Entrenamiento del modelo__
+#### Entrenamiento del modelo
 ```
 python discriminative/model_manager.py --train /path/to/train/data
 ```
 
-__Clasificación__
+#### Clasificación
 ```
 # img_str puede ser una url o un path a la imagen
 python discriminative/model_manager.py --predict img_str
 ```
 
 ### Ataque de caja negra
-__Dependencias__
+
+#### Principales dependencias
 - Pillow 5.2
 - Numpy 1.14
 - Keras 2.2
 - Cleverhans
 
-__Instalación__
+#### Instalación
+
 Instalar el fichero de dependencias de la carpeta `attack` con pip
 ```
 pip install -r attack/requirements.txt
