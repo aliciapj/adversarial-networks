@@ -1,6 +1,6 @@
 # The bad guys in AI - atacando sistemas de machine learning"
 
-<img src="./figure/results.png" height="200">
+<img src="https://github.com/aliciapj/pycon18-attack/blob/master/figure/results.png?raw=true" height="500">
 
 ### Descripción
 El código de este repositorio ha sido desarrollado por Alicia Pérez y Javier Ordoñez como demo para la charla
