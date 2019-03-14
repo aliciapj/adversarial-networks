@@ -49,3 +49,7 @@ Instalar el fichero de dependencias de la carpeta `attack` con pip
 pip install -r attack/requirements.txt
 ```
 
+#### Slides
+- [4:3](https://docs.google.com/presentation/d/1YouJcWetSEbdBBSrXJWGlG-UfErXKsVGDpBn1dXpTKM/edit?usp=sharing)
+- [16:9](https://docs.google.com/presentation/d/1ZSzXtfAvod6XOdgCSIsbcpttZ_vZazv7hMEKswioeYE/edit?usp=sharing)
+
