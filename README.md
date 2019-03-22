@@ -3,7 +3,7 @@
 <img src="https://github.com/aliciapj/pycon18-attack/blob/master/figure/results.png?raw=true" height="500">
 
 ### Descripción
-El código de este repositorio ha sido desarrollado por Alicia Pérez y Javier Ordoñez como demo para la charla
+El código de este repositorio ha sido desarrollado por Alicia Pérez, Javier Ordoñez y Beatriz Gómez como demo para la charla
 "The bad guys in AI - atacando sistemas de machine learning" en el marco de la PyConES de 2018 en Málaga y en el T3chfest 2019.
 
 Las transparencias que acompañan al contenido de la PyConES se pueden encontrar [aquí](/slides/PyCon2018_The_bad_guys_in_AI.pdf). Las transparencias del T3chfest 2019 están en este [enlace](https://docs.google.com/presentation/d/1YouJcWetSEbdBBSrXJWGlG-UfErXKsVGDpBn1dXpTKM/edit#slide=id.g35f391192_00).
