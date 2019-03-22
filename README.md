@@ -4,11 +4,11 @@
 
 ### Descripción
 El código de este repositorio ha sido desarrollado por Alicia Pérez y Javier Ordoñez como demo para la charla
-"The bad guys in AI - atacando sistemas de machine learning" en el marco de la PyConES de 2018 en Málaga.
+"The bad guys in AI - atacando sistemas de machine learning" en el marco de la PyConES de 2018 en Málaga y en el T3chfest 2019.
 
-Las transparencias que acompañan este contenido se pueden encontrar [aquí](/slides/PyCon2018_The_bad_guys_in_AI.pdf)
+Las transparencias que acompañan al contenido de la PyConES se pueden encontrar [aquí](/slides/PyCon2018_The_bad_guys_in_AI.pdf). Las transparencias del T3chfest 2019 están en este [enlace](https://docs.google.com/presentation/d/1YouJcWetSEbdBBSrXJWGlG-UfErXKsVGDpBn1dXpTKM/edit#slide=id.g35f391192_00).
 
-El vídeo de la charla será enlazado tan pronto como la organización lo haga público.
+El vídeo de la charla de la PyConES está disponible en el siguiente [enlace](https://www.youtube.com/watch?v=D2m9Ejx6S9k), y el vídeo correspondiente a la charla del T3chfest 2019 [aquí](https://youtu.be/d-8DdW7MTxQ).
 
 ### Oráculo - Modelo discriminativo
 
@@ -48,9 +48,3 @@ Instalar el fichero de dependencias de la carpeta `attack` con pip
 ```
 pip install -r attack/requirements.txt
 ```
-
-#### Slides
-En [este](https://docs.google.com/presentation/d/1YouJcWetSEbdBBSrXJWGlG-UfErXKsVGDpBn1dXpTKM/edit#slide=id.g35f391192_00) podéis acceder a las diapositivas.
-
-#### T3chfest 2019 
-EL video de la charla en T3echfest 2019 lo podeis encontrar [aqui](https://youtu.be/d-8DdW7MTxQ).
