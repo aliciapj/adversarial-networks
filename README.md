@@ -50,6 +50,7 @@ pip install -r attack/requirements.txt
 ```
 
 #### Slides
-- [4:3](https://docs.google.com/presentation/d/1YouJcWetSEbdBBSrXJWGlG-UfErXKsVGDpBn1dXpTKM/edit?usp=sharing)
-- [16:9](https://docs.google.com/presentation/d/1ZSzXtfAvod6XOdgCSIsbcpttZ_vZazv7hMEKswioeYE/edit?usp=sharing)
+En [este](https://docs.google.com/presentation/d/1YouJcWetSEbdBBSrXJWGlG-UfErXKsVGDpBn1dXpTKM/edit#slide=id.g35f391192_00) podéis acceder a las diapositivas.
 
+#### T3chfest 2019 
+EL video de la charla en T3echfest 2019 lo podeis encontrar [aqui](https://youtu.be/d-8DdW7MTxQ).
