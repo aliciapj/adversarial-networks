@@ -27,5 +27,5 @@ six==1.11.0
 tensorboard==1.10.0
 tensorflow-gpu==1.15.2
 termcolor==1.1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 
